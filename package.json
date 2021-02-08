@@ -1,0 +1,24 @@
+{
+  "name": "poisson-bound-util",
+  "version": "0.0.1",
+  "description": "Utility functions for working with Poisson distribution bounds",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheezBarger/poisson-bound-util.git"
+  },
+  "keywords": [
+    "Poisson",
+    "distribution",
+    "bounds"
+  ],
+  "author": "Jakub Łabor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CheezBarger/poisson-bound-util/issues"
+  },
+  "homepage": "https://github.com/CheezBarger/poisson-bound-util#readme",
+  "dependencies": {
+    "lambert-w": "github:CheezBarger/lambert-w"
+  }
+}
